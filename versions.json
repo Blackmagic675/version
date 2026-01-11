@@ -1,7 +1,7 @@
 {
   "ember-farming": {
     "version": "1.10.0",
-    "changelog": "Initial release with XP system and skill trees"
+    "changelog": "Refined rain logic and added new evnet to support farmland sales."
   },
   "ember-horseriding": {
     "version": "1.2.1",
