@@ -1,6 +1,6 @@
 {
   "ember-farming": {
-    "version": "1.9.6",
+    "version": "1.10.0",
     "changelog": "Initial release with XP system and skill trees"
   },
   "ember-horseriding": {
