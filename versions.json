@@ -16,7 +16,7 @@
     "changelog": "Added bridge for ESX & QBcore"
   },
   "ember-fruitpicking": {
-    "version": "1.1.0",
-    "changelog": "Added hookm for external xp scripts"
+    "version": "1.2.0",
+    "changelog": "Added metadata to items"
   }
 }
