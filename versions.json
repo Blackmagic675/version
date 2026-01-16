@@ -16,7 +16,7 @@
     "changelog": "Added bridge for ESX & QBcore"
   },
   "ember-fruitpicking": {
-    "version": "1.3.3",
-    "changelog": "Fixed stash not loading on player join"
+    "version": "1.3.5",
+    "changelog": "Added option to enable/disable decay ion stash"
   }
 }
