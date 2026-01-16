@@ -1,7 +1,7 @@
 {
   "ember-farming": {
     "version": "1.10.0",
-    "changelog": "Refined rain logic and added new evnet to support farmland sales."
+    "changelog": "Refined rain logic and added new event to support farmland sales."
   },
   "ember-horseriding": {
     "version": "1.2.1",
@@ -16,7 +16,7 @@
     "changelog": "Added bridge for ESX & QBcore"
   },
   "ember-fruitpicking": {
-    "version": "1.3.5",
-    "changelog": "Added option to enable/disable decay ion stash"
+    "version": "1.3.6",
+    "changelog": "Added option to enable/disable decay in stash"
   }
 }
