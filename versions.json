@@ -16,7 +16,7 @@
     "changelog": "Added bridge for ESX & QBcore"
   },
   "ember-fruitpicking": {
-    "version": "1.3.6",
-    "changelog": "Added option to enable/disable decay in stash"
+    "version": "1.3.7",
+    "changelog": "Added exploit prevention"
   }
 }
