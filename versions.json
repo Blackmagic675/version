@@ -16,8 +16,8 @@
     "changelog": "Added bridge for ESX & QBcore"
   },
   "ember-fruitpicking": {
-    "version": "1.3.9",
-    "changelog": "- Fixed metadata not applying correctly to picked items\n- Added item validation check during picking\n- Added configurable exploit prevention settings"
+    "version": "1.3.8",
+    "changelog": "- Fixed metadata not applying correctly to picked items\n- Added item check during picking\n- Added config setting for exploit prevention"
   },
   "ember-bankheist": {
     "version": "1.0.0",
