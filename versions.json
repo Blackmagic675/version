@@ -1,7 +1,7 @@
 {
   "ember-farming": {
-    "version": "1.10.0",
-    "changelog": "Refined rain logic and added new event to support farmland sales."
+    "version": "1.10.3",
+    "changelog": "Various bug fixes"
   },
   "ember-horseriding": {
     "version": "1.2.1",
