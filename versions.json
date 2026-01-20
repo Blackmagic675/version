@@ -19,52 +19,8 @@
     "version": "1.3.9",
     "changelog": "- Fixed metadata not applying correctly to picked items\n- Added item check during picking\n- Added config setting for exploit prevention\n- Various bug fixes"
   },
-  "ember-bankheist": {
-    "version": "1.0.0",
-    "changelog": ""
-  },
-  "ember-delivery": {
-    "version": "1.0.0",
-    "changelog": ""
-  },
-  "ember-drugprocessing": {
-    "version": "1.0.0",
-    "changelog": ""
-  },
-  "ember-drugsales": {
-    "version": "1.0.0",
-    "changelog": ""
-  },
-  "ember-foodtruck": {
-    "version": "1.0.0",
-    "changelog": ""
-  },
-  "ember-garage": {
-    "version": "1.0.0",
-    "changelog": ""
-  },
-  "ember-Interactables": {
-    "version": "1.0.0",
-    "changelog": ""
-  },
-  "ember-notes": {
-    "version": "1.0.0",
-    "changelog": ""
-  },
-  "ember-propplacer": {
-    "version": "1.0.0",
-    "changelog": ""
-  },
-  "ember-medical": {
-    "version": "1.0.0",
-    "changelog": ""
-  },
-  "ember-scrapyard": {
-    "version": "1.0.0",
-    "changelog": ""
-  },
-  "ember-storerobbery": {
-    "version": "1.0.0",
-    "changelog": ""
+  "ember-proptools": {
+    "version": "1.4.3",
+    "changelog": "Initial Release"
   }
 }
