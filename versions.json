@@ -20,7 +20,7 @@
     "changelog": "- Fixed metadata not applying correctly to picked items\n- Added item check during picking\n- Added config setting for exploit prevention\n- Various bug fixes"
   },
   "ember-proptools": {
-    "version": "1.4.3",
-    "changelog": "Initial Release"
+    "version": "1.4.4",
+    "changelog": "- Bug fixes\n- Model is returned with data\n- Added export to open prop settings\n- Added option to disable command"
   }
 }
