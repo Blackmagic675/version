@@ -22,5 +22,9 @@
   "ember-proptools": {
     "version": "1.4.4",
     "changelog": "- Bug fixes\n- Model is returned with data\n- Added export to open prop settings\n- Added option to disable command"
+  },
+  "ember-payphone": {
+    "version": "1.6.1",
+    "changelog": "Updated logic for prop spawn"
   }
 }
